@@ -85,14 +85,6 @@ The app will automatically open at `http://localhost:8501`
 
 ---
 
-## 📸 Demo
-
-![E-commerce Predictor Demo](https://via.placeholder.com/800x400/FF4B4B/FFFFFF?text=🛍️+E-Commerce+Spending+Predictor)
-
-*Adjust the sliders to see predictions in real-time!*
-
----
-
 <div align="center">
 
 ### ⭐ Star this repo if you found it helpful! ⭐
