@@ -18,7 +18,7 @@ Simply adjust the sliders, hit **Predict**, and watch the magic happen! ✨
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start  
 
 ### Prerequisites
 
